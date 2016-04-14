@@ -4,7 +4,7 @@ import React from 'react';
 import { findDOMNode } from 'react-dom';
 
 export default class C3Chart extends React.Component {
-
+  
   displayName: 'C3Chart';
 
   propTypes: {
